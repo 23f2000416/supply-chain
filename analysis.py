@@ -1,3 +1,9 @@
+pip install pandas numpy matplotlib seaborn ipywidgets
+# If using Jupyter Notebook/Lab, also enable widgets:
+jupyter nbextension enable --py widgetsnbextension
+# For JupyterLab you may need the labextension:
+# jupyter labextension install @jupyter-widgets/jupyterlab-manager
+
 # analysis.py
 # Author contact (required): 23f2000416@ds.study.iitm.ac.in
 #
